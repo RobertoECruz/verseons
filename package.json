@@ -1,9 +1,14 @@
 {
-    "name": "poetre_mix",
-    "description": "Grab lines of poetry from other people's poems to make new poems of your own.",
+    "name": "application-name",
     "version": "0.0.1",
-    "private": "true",
+    "private": true,
+    "scripts": {
+        "start": "coffee app"
+    },
     "dependencies": {
-        "express": "3.x"
+        "coffee-script": "1.6.x",
+        "express": "3.1.0",
+        "jade": "*",
+        "stylus": "*"
     }
 }
