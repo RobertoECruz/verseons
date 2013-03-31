@@ -9,6 +9,7 @@
         "coffee-script": "1.6.x",
         "express": "3.1.0",
         "jade": "*",
-        "stylus": "*"
+        "stylus": "*",
+        "login": "*"
     }
 }
