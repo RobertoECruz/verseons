@@ -1,0 +1,9 @@
+{
+    "name": "poetre_mix",
+    "description": "Grab lines of poetry from other people's poems to make new poems of your own.",
+    "version": "0.0.1",
+    "private": "true",
+    "dependencies": {
+        "express": "3.x"
+    }
+}
